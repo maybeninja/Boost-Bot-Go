@@ -1,0 +1,53 @@
+{
+  "License": "",
+  "proxyless": true,
+  "timeout": 60,
+  "capService": "hcoptcha",
+  "capKey": "a",
+  "inviteFieldName": "Invite",
+  "live_stock_msg_channelID": "1199697212888850432",
+  "port" : "8080",
+  "paypal_email": "Not Available",
+  "discordSettings": {
+    "token": "MTEzOTgyMTU1oU62G6qg",
+    "botStatus": "watching",
+    "botActivity": "Astra Nitros",
+    "supportServer": "https://discord.gg/astranitros",
+    "guildID": "1177506153551372359",
+    "owners": ["1154808437243396138"],
+    "embedColor": "800080",
+    "logsChannel": "1199697134904147979"
+  },
+  "customPersonalization": {
+    "onliner": true,
+    "displayName" : ".gg/astranitros",
+    "customBio": "",
+    "customPfp": ["avatar.png"],
+    "customBanner": ["banner.png"],
+    "status": ["Join Us"],
+    "statusEmoji": [""]
+  },
+  "sellixAutomationSettings": {
+    "enabled": false,
+    "shopName": "",
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "3_Month_Product_Price" : 1,
+      "1_Month_Product_ID": "",
+      "1_Month_Product_Price" : 1
+    }
+  },
+  "sellappAutomationSettings": {
+    "enabled": false,
+    "apiKey": "",
+    "productSettings": {
+      "3_Month_Product_ID": "",
+      "1_Month_Product_ID": ""
+    }
+  },
+  "sellpassAutomationSettings": {
+    "enabled": false,
+    "apiKey": ""
+  }
+}
